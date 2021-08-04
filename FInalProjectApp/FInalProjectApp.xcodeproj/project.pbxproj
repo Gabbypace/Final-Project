@@ -26,22 +26,22 @@
 		71A7D6B426B9B93500D33219 /* ViewControllerEleven.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A7D6B326B9B93500D33219 /* ViewControllerEleven.swift */; };
 		71D6ED5B26B7700C0053D37E /* ViewControllerNine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D6ED5A26B7700C0053D37E /* ViewControllerNine.swift */; };
 		71D6ED5D26B774DB0053D37E /* ViewControllerTen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D6ED5C26B774DB0053D37E /* ViewControllerTen.swift */; };
-		BDDFE50E26BB277000BC8308 /* ViewControllerTwelve.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE50D26BB277000BC8308 /* ViewControllerTwelve.swift */; };
-		BDDFE51026BB27C000BC8308 /* ViewControllerThirteen.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE50F26BB27C000BC8308 /* ViewControllerThirteen.swift */; };
-		BDDFE51226BB286200BC8308 /* ViewControllerFourteen.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE51126BB286200BC8308 /* ViewControllerFourteen.swift */; };
-		BDDFE51426BB299100BC8308 /* ViewControllerFifteen.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE51326BB299100BC8308 /* ViewControllerFifteen.swift */; };
-		BDDFE51626BB29D800BC8308 /* ViewControllerSixteen.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE51526BB29D800BC8308 /* ViewControllerSixteen.swift */; };
-		BDDFE51826BB2A0F00BC8308 /* ViewControllerSeventeen.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE51726BB2A0F00BC8308 /* ViewControllerSeventeen.swift */; };
-		BDDFE51A26BB2A4500BC8308 /* ViewControllerEighteen.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE51926BB2A4500BC8308 /* ViewControllerEighteen.swift */; };
-		BDDFE51C26BB2A7800BC8308 /* ViewControllerNineteen.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE51B26BB2A7800BC8308 /* ViewControllerNineteen.swift */; };
-		BDDFE51E26BB2AE100BC8308 /* ViewControllerTwenty.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE51D26BB2AE100BC8308 /* ViewControllerTwenty.swift */; };
-		BDDFE52026BB2B3D00BC8308 /* ViewController21.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE51F26BB2B3D00BC8308 /* ViewController21.swift */; };
-		BDDFE52226BB2B5800BC8308 /* ViewController22.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE52126BB2B5800BC8308 /* ViewController22.swift */; };
-		BDDFE52426BB2B8200BC8308 /* ViewController23.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE52326BB2B8200BC8308 /* ViewController23.swift */; };
-		BDDFE52626BB2BCE00BC8308 /* ViewController24.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE52526BB2BCE00BC8308 /* ViewController24.swift */; };
-		BDDFE52826BB2BFC00BC8308 /* ViewController25.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE52726BB2BFC00BC8308 /* ViewController25.swift */; };
-		BDDFE52A26BB2C3500BC8308 /* ViewController26.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE52926BB2C3500BC8308 /* ViewController26.swift */; };
-		BDDFE52C26BB2C6E00BC8308 /* ViewController27.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE52B26BB2C6E00BC8308 /* ViewController27.swift */; };
+		BDDFE53026BB473C00BC8308 /* ViewController12.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE52F26BB473C00BC8308 /* ViewController12.swift */; };
+		BDDFE53226BB476100BC8308 /* ViewController13.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE53126BB476100BC8308 /* ViewController13.swift */; };
+		BDDFE53426BB478000BC8308 /* ViewController14.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE53326BB478000BC8308 /* ViewController14.swift */; };
+		BDDFE53626BB47AC00BC8308 /* ViewController15.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE53526BB47AC00BC8308 /* ViewController15.swift */; };
+		BDDFE53826BB47CB00BC8308 /* ViewController16.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE53726BB47CB00BC8308 /* ViewController16.swift */; };
+		BDDFE53A26BB47ED00BC8308 /* ViewController17.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE53926BB47ED00BC8308 /* ViewController17.swift */; };
+		BDDFE53C26BB480900BC8308 /* ViewController18.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE53B26BB480900BC8308 /* ViewController18.swift */; };
+		BDDFE53E26BB482100BC8308 /* ViewController19.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE53D26BB482100BC8308 /* ViewController19.swift */; };
+		BDDFE54026BB484A00BC8308 /* ViewController20.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE53F26BB484A00BC8308 /* ViewController20.swift */; };
+		BDDFE54226BB487500BC8308 /* ViewController21.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE54126BB487500BC8308 /* ViewController21.swift */; };
+		BDDFE54426BB48A600BC8308 /* ViewController22.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE54326BB48A600BC8308 /* ViewController22.swift */; };
+		BDDFE54626BB48C600BC8308 /* ViewController23.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE54526BB48C600BC8308 /* ViewController23.swift */; };
+		BDDFE54826BB48E400BC8308 /* ViewController24.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE54726BB48E400BC8308 /* ViewController24.swift */; };
+		BDDFE54A26BB48FD00BC8308 /* ViewController25.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE54926BB48FD00BC8308 /* ViewController25.swift */; };
+		BDDFE54C26BB494100BC8308 /* ViewController26.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE54B26BB494100BC8308 /* ViewController26.swift */; };
+		BDDFE54E26BB497900BC8308 /* ViewController27.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDFE54D26BB497900BC8308 /* ViewController27.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -87,24 +87,24 @@
 		71A7D6B326B9B93500D33219 /* ViewControllerEleven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerEleven.swift; sourceTree = "<group>"; };
 		71D6ED5A26B7700C0053D37E /* ViewControllerNine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerNine.swift; sourceTree = "<group>"; };
 		71D6ED5C26B774DB0053D37E /* ViewControllerTen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTen.swift; sourceTree = "<group>"; };
-		BDDFE50726BB071C00BC8308 /* Gilroy-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gilroy-ExtraBold.otf"; path = "../../../../Desktop/Gilroy-ExtraBold.otf"; sourceTree = "<group>"; };
-		BDDFE50826BB072400BC8308 /* Gilroy-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gilroy-Light.otf"; path = "../../../../Desktop/Gilroy-Light.otf"; sourceTree = "<group>"; };
-		BDDFE50D26BB277000BC8308 /* ViewControllerTwelve.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTwelve.swift; sourceTree = "<group>"; };
-		BDDFE50F26BB27C000BC8308 /* ViewControllerThirteen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerThirteen.swift; sourceTree = "<group>"; };
-		BDDFE51126BB286200BC8308 /* ViewControllerFourteen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerFourteen.swift; sourceTree = "<group>"; };
-		BDDFE51326BB299100BC8308 /* ViewControllerFifteen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerFifteen.swift; sourceTree = "<group>"; };
-		BDDFE51526BB29D800BC8308 /* ViewControllerSixteen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerSixteen.swift; sourceTree = "<group>"; };
-		BDDFE51726BB2A0F00BC8308 /* ViewControllerSeventeen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerSeventeen.swift; sourceTree = "<group>"; };
-		BDDFE51926BB2A4500BC8308 /* ViewControllerEighteen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerEighteen.swift; sourceTree = "<group>"; };
-		BDDFE51B26BB2A7800BC8308 /* ViewControllerNineteen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerNineteen.swift; sourceTree = "<group>"; };
-		BDDFE51D26BB2AE100BC8308 /* ViewControllerTwenty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTwenty.swift; sourceTree = "<group>"; };
-		BDDFE51F26BB2B3D00BC8308 /* ViewController21.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController21.swift; sourceTree = "<group>"; };
-		BDDFE52126BB2B5800BC8308 /* ViewController22.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController22.swift; sourceTree = "<group>"; };
-		BDDFE52326BB2B8200BC8308 /* ViewController23.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController23.swift; sourceTree = "<group>"; };
-		BDDFE52526BB2BCE00BC8308 /* ViewController24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController24.swift; sourceTree = "<group>"; };
-		BDDFE52726BB2BFC00BC8308 /* ViewController25.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController25.swift; sourceTree = "<group>"; };
-		BDDFE52926BB2C3500BC8308 /* ViewController26.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController26.swift; sourceTree = "<group>"; };
-		BDDFE52B26BB2C6E00BC8308 /* ViewController27.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController27.swift; sourceTree = "<group>"; };
+		BDDFE52D26BB463600BC8308 /* Gilroy-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gilroy-ExtraBold.otf"; path = "../../../../Desktop/Gilroy-ExtraBold.otf"; sourceTree = "<group>"; };
+		BDDFE52E26BB463B00BC8308 /* Gilroy-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gilroy-Light.otf"; path = "../../../../Desktop/Gilroy-Light.otf"; sourceTree = "<group>"; };
+		BDDFE52F26BB473C00BC8308 /* ViewController12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController12.swift; sourceTree = "<group>"; };
+		BDDFE53126BB476100BC8308 /* ViewController13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController13.swift; sourceTree = "<group>"; };
+		BDDFE53326BB478000BC8308 /* ViewController14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController14.swift; sourceTree = "<group>"; };
+		BDDFE53526BB47AC00BC8308 /* ViewController15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController15.swift; sourceTree = "<group>"; };
+		BDDFE53726BB47CB00BC8308 /* ViewController16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController16.swift; sourceTree = "<group>"; };
+		BDDFE53926BB47ED00BC8308 /* ViewController17.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController17.swift; sourceTree = "<group>"; };
+		BDDFE53B26BB480900BC8308 /* ViewController18.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController18.swift; sourceTree = "<group>"; };
+		BDDFE53D26BB482100BC8308 /* ViewController19.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController19.swift; sourceTree = "<group>"; };
+		BDDFE53F26BB484A00BC8308 /* ViewController20.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController20.swift; sourceTree = "<group>"; };
+		BDDFE54126BB487500BC8308 /* ViewController21.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController21.swift; sourceTree = "<group>"; };
+		BDDFE54326BB48A600BC8308 /* ViewController22.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController22.swift; sourceTree = "<group>"; };
+		BDDFE54526BB48C600BC8308 /* ViewController23.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController23.swift; sourceTree = "<group>"; };
+		BDDFE54726BB48E400BC8308 /* ViewController24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController24.swift; sourceTree = "<group>"; };
+		BDDFE54926BB48FD00BC8308 /* ViewController25.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController25.swift; sourceTree = "<group>"; };
+		BDDFE54B26BB494100BC8308 /* ViewController26.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController26.swift; sourceTree = "<group>"; };
+		BDDFE54D26BB497900BC8308 /* ViewController27.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController27.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,29 +168,29 @@
 				712AA13326B6390B00A33297 /* ViewControllerSix.swift */,
 				712AA13126B6381C00A33297 /* ViewControllerFive.swift */,
 				712AA12F26B62F2800A33297 /* ViewControllerFour.swift */,
-				BDDFE50D26BB277000BC8308 /* ViewControllerTwelve.swift */,
-				BDDFE50F26BB27C000BC8308 /* ViewControllerThirteen.swift */,
-				BDDFE51126BB286200BC8308 /* ViewControllerFourteen.swift */,
-				BDDFE51326BB299100BC8308 /* ViewControllerFifteen.swift */,
-				BDDFE51526BB29D800BC8308 /* ViewControllerSixteen.swift */,
-				BDDFE51726BB2A0F00BC8308 /* ViewControllerSeventeen.swift */,
-				BDDFE51926BB2A4500BC8308 /* ViewControllerEighteen.swift */,
-				BDDFE51B26BB2A7800BC8308 /* ViewControllerNineteen.swift */,
-				BDDFE51D26BB2AE100BC8308 /* ViewControllerTwenty.swift */,
-				BDDFE51F26BB2B3D00BC8308 /* ViewController21.swift */,
-				BDDFE52126BB2B5800BC8308 /* ViewController22.swift */,
-				BDDFE52326BB2B8200BC8308 /* ViewController23.swift */,
-				BDDFE52526BB2BCE00BC8308 /* ViewController24.swift */,
-				BDDFE52726BB2BFC00BC8308 /* ViewController25.swift */,
-				BDDFE52926BB2C3500BC8308 /* ViewController26.swift */,
-				BDDFE52B26BB2C6E00BC8308 /* ViewController27.swift */,
-				BDDFE50726BB071C00BC8308 /* Gilroy-ExtraBold.otf */,
-				BDDFE50826BB072400BC8308 /* Gilroy-Light.otf */,
+				BDDFE52D26BB463600BC8308 /* Gilroy-ExtraBold.otf */,
+				BDDFE52E26BB463B00BC8308 /* Gilroy-Light.otf */,
 				712AA10526B5DEEB00A33297 /* ViewControllerTwo.swift */,
 				712AA0DE26B5DDAA00A33297 /* Assets.xcassets */,
 				712AA0E026B5DDAA00A33297 /* LaunchScreen.storyboard */,
 				712AA0E326B5DDAA00A33297 /* Info.plist */,
 				712AA0DB26B5DD4900A33297 /* FInalProjectApp.xcdatamodeld */,
+				BDDFE52F26BB473C00BC8308 /* ViewController12.swift */,
+				BDDFE53126BB476100BC8308 /* ViewController13.swift */,
+				BDDFE53326BB478000BC8308 /* ViewController14.swift */,
+				BDDFE53526BB47AC00BC8308 /* ViewController15.swift */,
+				BDDFE53726BB47CB00BC8308 /* ViewController16.swift */,
+				BDDFE53926BB47ED00BC8308 /* ViewController17.swift */,
+				BDDFE53B26BB480900BC8308 /* ViewController18.swift */,
+				BDDFE53D26BB482100BC8308 /* ViewController19.swift */,
+				BDDFE53F26BB484A00BC8308 /* ViewController20.swift */,
+				BDDFE54126BB487500BC8308 /* ViewController21.swift */,
+				BDDFE54326BB48A600BC8308 /* ViewController22.swift */,
+				BDDFE54526BB48C600BC8308 /* ViewController23.swift */,
+				BDDFE54726BB48E400BC8308 /* ViewController24.swift */,
+				BDDFE54926BB48FD00BC8308 /* ViewController25.swift */,
+				BDDFE54B26BB494100BC8308 /* ViewController26.swift */,
+				BDDFE54D26BB497900BC8308 /* ViewController27.swift */,
 			);
 			path = FInalProjectApp;
 			sourceTree = "<group>";
@@ -343,36 +343,36 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDDFE53E26BB482100BC8308 /* ViewController19.swift in Sources */,
 				712AA10626B5DEEB00A33297 /* ViewControllerTwo.swift in Sources */,
 				71D6ED5D26B774DB0053D37E /* ViewControllerTen.swift in Sources */,
 				712AA13826B6430E00A33297 /* ViewControllerEight.swift in Sources */,
 				712AA13426B6390B00A33297 /* ViewControllerSix.swift in Sources */,
-				BDDFE51826BB2A0F00BC8308 /* ViewControllerSeventeen.swift in Sources */,
-				BDDFE52426BB2B8200BC8308 /* ViewController23.swift in Sources */,
+				BDDFE54626BB48C600BC8308 /* ViewController23.swift in Sources */,
+				BDDFE53A26BB47ED00BC8308 /* ViewController17.swift in Sources */,
+				BDDFE53626BB47AC00BC8308 /* ViewController15.swift in Sources */,
+				BDDFE53426BB478000BC8308 /* ViewController14.swift in Sources */,
+				BDDFE53226BB476100BC8308 /* ViewController13.swift in Sources */,
+				BDDFE53826BB47CB00BC8308 /* ViewController16.swift in Sources */,
+				BDDFE53026BB473C00BC8308 /* ViewController12.swift in Sources */,
+				BDDFE54226BB487500BC8308 /* ViewController21.swift in Sources */,
+				BDDFE53C26BB480900BC8308 /* ViewController18.swift in Sources */,
 				712AA10A26B5DF9500A33297 /* ViewControllerThree.swift in Sources */,
-				BDDFE51C26BB2A7800BC8308 /* ViewControllerNineteen.swift in Sources */,
 				71D6ED5B26B7700C0053D37E /* ViewControllerNine.swift in Sources */,
 				712AA0D726B5DD4600A33297 /* ViewController.swift in Sources */,
 				712AA13626B63A4400A33297 /* ViewControllerSeven.swift in Sources */,
-				BDDFE51E26BB2AE100BC8308 /* ViewControllerTwenty.swift in Sources */,
-				BDDFE52026BB2B3D00BC8308 /* ViewController21.swift in Sources */,
-				BDDFE51626BB29D800BC8308 /* ViewControllerSixteen.swift in Sources */,
-				BDDFE50E26BB277000BC8308 /* ViewControllerTwelve.swift in Sources */,
-				BDDFE51026BB27C000BC8308 /* ViewControllerThirteen.swift in Sources */,
 				712AA0D326B5DD4600A33297 /* AppDelegate.swift in Sources */,
 				71A7D6B426B9B93500D33219 /* ViewControllerEleven.swift in Sources */,
+				BDDFE54826BB48E400BC8308 /* ViewController24.swift in Sources */,
 				712AA13226B6381C00A33297 /* ViewControllerFive.swift in Sources */,
-				BDDFE51A26BB2A4500BC8308 /* ViewControllerEighteen.swift in Sources */,
-				BDDFE52626BB2BCE00BC8308 /* ViewController24.swift in Sources */,
 				712AA0DD26B5DD4900A33297 /* FInalProjectApp.xcdatamodeld in Sources */,
-				BDDFE51226BB286200BC8308 /* ViewControllerFourteen.swift in Sources */,
-				BDDFE52C26BB2C6E00BC8308 /* ViewController27.swift in Sources */,
+				BDDFE54E26BB497900BC8308 /* ViewController27.swift in Sources */,
+				BDDFE54026BB484A00BC8308 /* ViewController20.swift in Sources */,
 				712AA13026B62F2800A33297 /* ViewControllerFour.swift in Sources */,
-				BDDFE51426BB299100BC8308 /* ViewControllerFifteen.swift in Sources */,
-				BDDFE52226BB2B5800BC8308 /* ViewController22.swift in Sources */,
-				BDDFE52A26BB2C3500BC8308 /* ViewController26.swift in Sources */,
+				BDDFE54426BB48A600BC8308 /* ViewController22.swift in Sources */,
+				BDDFE54C26BB494100BC8308 /* ViewController26.swift in Sources */,
 				712AA0D526B5DD4600A33297 /* SceneDelegate.swift in Sources */,
-				BDDFE52826BB2BFC00BC8308 /* ViewController25.swift in Sources */,
+				BDDFE54A26BB48FD00BC8308 /* ViewController25.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
